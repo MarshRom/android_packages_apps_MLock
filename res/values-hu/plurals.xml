@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="missed_calls">
+        <item quantity="other">%d nem fogadott hívás</item>
+        <item quantity="one">%d nem fogadott hívás</item>
+    </plurals>
+    <plurals name="unread_messages">
+        <item quantity="other">%d olvasatlan üzenet</item>
+        <item quantity="one">%d olvasatlan üzenet</item>
+    </plurals>
+    <plurals name="kg_password_wrong_pin_code">
+        <item quantity="other">Helytelen PIN kód a SIM kártyához; még %d próbálkozása van.</item>
+        <item quantity="one">Helytelen PIN kód a SIM kártyához; még %d próbálkozása van, mielőtt fel kellene vennie a kapcsolatot szolgáltatójával az eszköz feloldásához.</item>
+    </plurals>
+    <plurals name="kg_password_wrong_puk_code">
+        <item quantity="other">Helytelen PUK kód a SIM kártyához; még %d próbálkozása van, mielőtt a SIM kártya végleg használhatatlan lesz.</item>
+        <item quantity="one">Helytelen PUK kód a SIM kártyához; még %d próbálkozása van, mielőtt a SIM kártya végleg használhatatlan lesz.</item>
+    </plurals>
+</resources>

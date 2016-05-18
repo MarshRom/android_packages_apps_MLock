@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="transparent">?unknown_ref: 106000d</color>
+    <color name="keyguard_avatar_frame_color">#ffffffff</color>
+    <color name="keyguard_avatar_frame_shadow_color">#80000000</color>
+    <color name="keyguard_avatar_nick_color">#ffffffff</color>
+    <color name="keyguard_avatar_frame_pressed_color">#ff35b5e5</color>
+    <color name="kg_widget_pager_gradient">#ffffffff</color>
+    <color name="facelock_spotlight_mask">#cc000000</color>
+    <color name="clock_white">#ffffffff</color>
+    <color name="clock_gray">#80ffffff</color>
+    <color name="keyguard_drawer_color">#ff6bd1e9</color>
+    <color name="gradient_bottom">#ff000000</color>
+    <color name="default_text_palette_highlight">#21aad1</color>
+    <color name="equalizer_fill_color">#32ffffff</color>
+</resources>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">CM අගුළු තිරය</string>
+    <string name="keyguard_discharging">විසර්ජනය වෙමින්, %d%%</string>
+    <string name="missed_call">මගහැරුණු ඇමතුම</string>
+    <string name="message_from">පණිවිඩය කාවිසින්ද</string>
+    <string name="message_from_person">%1$s විසින් පණිවිඩයක්</string>
+</resources>

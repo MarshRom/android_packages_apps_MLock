@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <anim name="keyguard_action_assist_enter">res/anim/keyguard_action_assist_enter.xml</anim>
+    <anim name="keyguard_action_assist_exit">res/anim/keyguard_action_assist_exit.xml</anim>
+    <anim name="lock_screen_enter">res/anim/lock_screen_enter.xml</anim>
+    <anim name="lock_screen_exit">res/anim/lock_screen_exit.xml</anim>
+    <anim name="lock_screen_exit_mod">res/anim/lock_screen_exit_mod.xml</anim>
+    <anim name="lock_screen_exit_slide">res/anim/lock_screen_exit_slide.xml</anim>
+</resources>

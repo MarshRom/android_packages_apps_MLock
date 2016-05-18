@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="missed_calls">
+        <item quantity="other">%d trucades perdudes</item>
+        <item quantity="one">%d trucada perduda</item>
+    </plurals>
+    <plurals name="unread_messages">
+        <item quantity="other">%d missatges sense llegir</item>
+        <item quantity="one">%d missatge sense llegir</item>
+    </plurals>
+    <plurals name="kg_password_wrong_pin_code">
+        <item quantity="other">El codi PIN de la SIM no és correcte. Et queden %d intents.</item>
+        <item quantity="one">El codi PIN de la SIM no és correcte. Et queda %d intent; si no l&apos;encertes, contacta amb l&apos;operador de telefonia mòbil per desbloquejar el dispositiu.</item>
+    </plurals>
+    <plurals name="kg_password_wrong_puk_code">
+        <item quantity="other">El codi PUK de la SIM no és correcte. Et queden %d intents; si no l&apos;encertes, la SIM no es podrà tornar a fer servir.</item>
+        <item quantity="one">El codi PUK de la SIM no és correcte. Et queda %d intent; si no l&apos;encertes, la SIM no es podrà tornar a fer servir.</item>
+    </plurals>
+</resources>

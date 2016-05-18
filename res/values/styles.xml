@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="Widget.Button.NumPadKey">
+        <item>34dp</item>
+        <item>0</item>
+        <item>#ffffff</item>
+        <item>13</item>
+        <item>?unknown_attr_ref: 101030e</item>
+        <item>@dimen/kg_num_pad_key_padding_left</item>
+        <item>@dimen/kg_num_pad_key_padding_top</item>
+        <item>6dp</item>
+        <item>@dimen/kg_num_pad_key_padding_bottom</item>
+        <item>true</item>
+        <item>sans-serif</item>
+    </style>
+    <style name="TextAppearance.NumPadKey">
+        <item>34dp</item>
+        <item>0</item>
+        <item>#ffffff</item>
+        <item>sans-serif</item>
+    </style>
+    <style name="TextAppearance.NumPadKey.Klondike">
+        <item>20dp</item>
+        <item>0</item>
+        <item>#80ffffff</item>
+        <item>sans-serif-condensed</item>
+    </style>
+    <style name="Animation.LockScreen">
+        <item>@anim/lock_screen_enter</item>
+        <item>@anim/lock_screen_exit</item>
+    </style>
+    <style name="Animation.LockScreenMod">
+        <item>@anim/lock_screen_enter</item>
+        <item>@anim/lock_screen_exit_mod</item>
+    </style>
+    <style name="Animation.LockScreenModSlide">
+        <item>@anim/lock_screen_enter</item>
+        <item>@anim/lock_screen_exit_slide</item>
+    </style>
+    <style name="widget_label">
+        <item>@dimen/widget_label_font_size</item>
+        <item>1</item>
+        <item>true</item>
+        <item>sans-serif-condensed</item>
+    </style>
+    <style name="big_thin">
+        <item>@dimen/big_font_size</item>
+        <item>sans-serif-thin</item>
+    </style>
+    <style name="widget_big_thin">
+        <item>@dimen/widget_big_font_size</item>
+    </style>
+    <style name="Widget.TransportControl.SeekBar">
+        <item>true</item>
+        <item>13dp</item>
+        <item>false</item>
+        <item>@drawable/scrubber_progress_horizontal_holo_light</item>
+        <item>@drawable/scrubber_progress_horizontal_holo_light</item>
+        <item>13dp</item>
+        <item>@drawable/scrubber_control_selector_holo</item>
+        <item>16dp</item>
+        <item>16dp</item>
+        <item>16dp</item>
+        <item>true</item>
+    </style>
+    <style name="TextAppearance.MSimCarrierText">
+        <item>@dimen/kg_status_line_font_size</item>
+        <item>@color/clock_white</item>
+        <item>true</item>
+        <item>sans-serif-light</item>
+    </style>
+    <style name="TransportControlTitle">
+        <item>#70000000</item>
+        <item>2.0</item>
+        <item>3.0</item>
+        <item>5.0</item>
+    </style>
+    <style name="TransportControlSubtitle">
+        <item>#90000000</item>
+        <item>1.0</item>
+        <item>1.0</item>
+        <item>2.0</item>
+    </style>
+</resources>

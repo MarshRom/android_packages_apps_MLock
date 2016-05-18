@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="missed_calls">
+        <item quantity="other">%d gemiste oproepen</item>
+        <item quantity="one">%d gemiste oproep</item>
+    </plurals>
+    <plurals name="unread_messages">
+        <item quantity="other">%d ongelezen berichten</item>
+        <item quantity="one">%d ongelezen bericht</item>
+    </plurals>
+    <plurals name="kg_password_wrong_pin_code">
+        <item quantity="other">Onjuiste pincode voor simkaart. U heeft nog %d pogingen over.</item>
+        <item quantity="one">Onjuiste pincode voor simkaart. U heeft nog %d poging over voordat u contact met uw provider moet opnemen om uw apparaat te ontgrendelen.</item>
+    </plurals>
+    <plurals name="kg_password_wrong_puk_code">
+        <item quantity="other">Onjuiste pukcode voor simkaart. U heeft nog %d pogingen over voordat de simkaart definitief onbruikbaar wordt.</item>
+        <item quantity="one">Onjuiste pukcode voor simkaart. U heeft nog %d poging over voordat de simkaart definitief onbruikbaar wordt.</item>
+    </plurals>
+</resources>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="missed_calls">
+        <item quantity="other">%d ubesvarede opkald</item>
+        <item quantity="one">%d ubesvaret opkald</item>
+    </plurals>
+    <plurals name="unread_messages">
+        <item quantity="other">%d ulæste beskeder</item>
+        <item quantity="one">%d ulæst besked</item>
+    </plurals>
+    <plurals name="kg_password_wrong_pin_code">
+        <item quantity="other">Forkert pinkode til SIM-kort. Du har %d forsøg tilbage.</item>
+        <item quantity="one">Forkert pinkode til SIM-kort. Du har %d forsøg tilbage, før du skal kontakte dit mobilselskab for at låse din enhed op.</item>
+    </plurals>
+    <plurals name="kg_password_wrong_puk_code">
+        <item quantity="other">Forkert PUK-kode til SIM-kort. Du har %d forsøg tilbage, før dit SIM-kort bliver permanent ubrugeligt.</item>
+        <item quantity="one">Forkert PUK-kode til SIM-kort. Du har %d forsøg tilbage, før SIM-kortet bliver permanent ubrugeligt.</item>
+    </plurals>
+</resources>

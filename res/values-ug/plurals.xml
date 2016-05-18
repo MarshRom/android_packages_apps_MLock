@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="kg_password_wrong_pin_code">
+        <item quantity="other">SIM كارتا PIN كودى توغرا ئەمەس؛ سىزنىڭ %d قېتىم سىناش پۇرسىتىڭىز بار.</item>
+        <item quantity="one">SIM كارتا PIN كودى توغرا ئەمەس، سىزنىڭ %d قېتىم سىناش پۇرسىتىڭىز بار. ئەگەر يەنىلا مەغلۇپ بولسىڭىز مۇلازىمەت سودىگىرىڭىز بىلەن ئالاقە قىلىپ ئۈسكۈنىڭىزنىڭ قۇلۇپىنى ئېچىڭ.</item>
+    </plurals>
+    <plurals name="kg_password_wrong_puk_code">
+        <item quantity="other">SIM كارتا PUK كودى توغرا ئەمەس؛ سىزنىڭ %d قېتىم سىناش پۇرسىتىڭىز بار. ئەگەر يەنىلا مەغلۇپ بولسىڭىز SIM كارتىنى مەڭگۈ ئىشلەتكىلى بولمايدۇ.</item>
+        <item quantity="one">SIM كارتا PUK كودى توغرا ئەمەس؛ سىزنىڭ %d قېتىم سىناش پۇرسىتىڭىز بار. ئەگەر يەنىلا مەغلۇپ بولسىڭىز SIM كارتىنى مەڭگۈ ئىشلەتكىلى بولمايدۇ.</item>
+    </plurals>
+</resources>

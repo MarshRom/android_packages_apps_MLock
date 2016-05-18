@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <attr name="layout_gravity">
+        <item>131072</item>
+        <item>30</item>
+        <item>50</item>
+        <item>3</item>
+        <item>5</item>
+        <item>10</item>
+        <item>70</item>
+        <item>1</item>
+        <item>7</item>
+        <item>11</item>
+        <item>77</item>
+        <item>80</item>
+        <item>8</item>
+        <item>800003</item>
+        <item>800005</item>
+    </attr>
+    <attr name="pageSpacing">
+        <item>64</item>
+    </attr>
+    <attr name="scrollIndicatorPaddingLeft">
+        <item>64</item>
+    </attr>
+    <attr name="scrollIndicatorPaddingRight">
+        <item>64</item>
+    </attr>
+    <attr name="disableTouch">
+        <item>8</item>
+    </attr>
+    <attr name="dotSize">
+        <item>64</item>
+    </attr>
+    <attr name="numDots">
+        <item>4</item>
+    </attr>
+    <attr name="glowDot">
+        <item>1</item>
+    </attr>
+    <attr name="leftToRight">
+        <item>8</item>
+    </attr>
+    <attr name="layout_childType">
+        <item>65536</item>
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+        <item>6</item>
+        <item>7</item>
+    </attr>
+    <attr name="layout_maxHeight">
+        <item>64</item>
+    </attr>
+    <attr name="layout_centerWithinArea">
+        <item>32</item>
+    </attr>
+    <attr name="layout_maxWidth">
+        <item>64</item>
+    </attr>
+    <attr name="digit">
+        <item>4</item>
+    </attr>
+    <attr name="textView">
+        <item>1</item>
+    </attr>
+    <attr name="disableOpenStateRestore">
+        <item>8</item>
+    </attr>
+</resources>

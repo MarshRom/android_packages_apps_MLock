@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="keyguard_password_wrong_puk_code">Código PUK incorreto.</string>
+    <string name="keyguard_password_pin_failed">Operação PIN falhou.</string>
+    <string name="keyguard_password_puk_failed">Operação PUK falhou.</string>
+    <string name="keyguard_pin_accepted">Código aceito.</string>
+    <string name="pinpuk_attempts">\nTentativas restantes:</string>
+    <string name="lockscreen_sim_error_message_short">Cartão inválido.</string>
+    <string name="keyguard_perso_locked_message">SIM/RUIM está travado</string>
+    <string name="msim_kg_sim_pin_msg_format">ASS: %d: %s</string>
+    <string name="app_name">Tela de bloqueio CM</string>
+    <string name="keyguard_discharging">Descarregando, %d%%</string>
+    <string name="missed_call">chamada perdida</string>
+    <string name="message_from">mensagem de</string>
+    <string name="message_from_person">mensagem de %1$s</string>
+</resources>

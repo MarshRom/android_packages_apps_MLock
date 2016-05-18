@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.cyngn.keyguard.KeyguardWidgetPager xmlns:android="http://schemas.android.com/apk/res/android" android:id="@+id/app_widget_container" android:paddingLeft="25dp" android:paddingTop="25dp" android:paddingRight="25dp" android:paddingBottom="@dimen/kg_widget_pager_bottom_padding" android:clipToPadding="false" android:pageSpacing="10dp" android:disableTouch="true" />

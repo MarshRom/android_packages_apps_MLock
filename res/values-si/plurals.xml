@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="missed_calls">
+        <item quantity="other">මගහැරුණු ඇමතුම් %d</item>
+        <item quantity="one">%d මගහැරුණු ඇමතුමක්</item>
+    </plurals>
+    <plurals name="unread_messages">
+        <item quantity="other">නොකියවූ පණිවිඩ %d</item>
+        <item quantity="one">%d නොකියවූ පණිවිඩයක්</item>
+    </plurals>
+</resources>

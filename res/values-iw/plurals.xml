@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="missed_calls">
+        <item quantity="other">%d שיחות שלא נענו</item>
+        <item quantity="one">שיחה %d שלא נענתה</item>
+    </plurals>
+    <plurals name="unread_messages">
+        <item quantity="other">%d הודעות שלא נקראו</item>
+        <item quantity="one">הודעה %d שלא נקראה</item>
+    </plurals>
+    <plurals name="kg_password_wrong_pin_code">
+        <item quantity="other">‏מספר PIN שגוי של כרטיס ה-SIM. נותרו לך %d ניסיונות נוספים.</item>
+        <item quantity="one">‏מספר PIN שגוי של כרטיס ה-SIM. נותר לך ניסיון %d נוסף לפני שיהיה עליך ליצור קשר עם הספק על מנת לבטל את נעילת המכשיר.</item>
+    </plurals>
+    <plurals name="kg_password_wrong_puk_code">
+        <item quantity="other">‏קוד PUK שגוי של כרטיס ה-SIM. נותרו לך %d ניסיונות נוספים לפני שכרטיס ה-SIM ינעל לצמיתות.</item>
+        <item quantity="one">‏קוד PUK שגוי של כרטיס ה-SIM. נותר לך ניסיון %d נוסף לפני שכרטיס ה-SIM ינעל לצמיתות.</item>
+    </plurals>
+</resources>

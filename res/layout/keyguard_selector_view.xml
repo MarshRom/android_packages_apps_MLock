@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.cyngn.keyguard.KeyguardSelectorView xmlns:android="http://schemas.android.com/apk/res/com.cyngn.keyguard" androidprv:orientation="vertical" androidprv:id="@+id/keyguard_selector_view" androidprv:clipChildren="false" androidprv:clipToPadding="false" androidprv:layout_width="match_parent" androidprv:layout_height="match_parent" androidprv:contentDescription="@string/keyguard_accessibility_slide_unlock" androidprv:layout_maxHeight="UNKNOWN_DATA_0x7f0c0022" androidprv:layout_maxWidth="420dp">
+    <FrameLayout androidprv:gravity="top|bottom|left|right|center_vertical|fill_vertical|center_horizontal|fill_horizontal|center|fill|start|end" androidprv:layout_gravity="top|bottom|left|right|center_vertical|fill_vertical|center_horizontal|fill_horizontal|center|fill|start|end" androidprv:clipChildren="false" androidprv:clipToPadding="false" androidprv:layout_width="match_parent" androidprv:layout_height="match_parent">
+        <include androidprv:layout_width="match_parent" androidprv:layout_height="wrap_content" layout="@layout/keyguard_message_area" />
+        <View androidprv:id="@+id/keyguard_selector_view_frame" androidprv:background="@drawable/kg_bouncer_bg_white" androidprv:layout_width="match_parent" androidprv:layout_height="match_parent" androidprv:layout_marginLeft="16dp" androidprv:layout_marginRight="16dp" />
+        <include layout="@layout/keyguard_glow_pad_container" />
+        <include androidprv:layout_gravity="top|bottom|left|right|center_vertical|fill_vertical|center_horizontal|fill_horizontal|center|fill|start|end" androidprv:id="@+id/keyguard_selector_fade_container" androidprv:layout_width="match_parent" androidprv:layout_height="UNKNOWN_DATA_0x3001" layout="@layout/keyguard_eca" />
+    </FrameLayout>
+</com.cyngn.keyguard.KeyguardSelectorView>

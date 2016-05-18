@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="missed_calls">
+        <item quantity="other">%d 个未接来电</item>
+    </plurals>
+    <plurals name="unread_messages">
+        <item quantity="other">%d 条未读信息</item>
+    </plurals>
+    <plurals name="kg_password_wrong_pin_code">
+        <item quantity="other">SIM 卡 PIN 码不正确，您还有%d次尝试机会。</item>
+        <item quantity="one">SIM 卡 PIN 码不正确，您还有%d次尝试机会。如果仍然失败，则必须联系运营商帮您解锁设备。</item>
+    </plurals>
+    <plurals name="kg_password_wrong_puk_code">
+        <item quantity="other">SIM 卡 PUK 码不正确，您还有%d次尝试机会。如果仍然失败，SIM 卡将永远无法使用。</item>
+        <item quantity="one">SIM 卡 PUK 码不正确，您还有%d次尝试机会。如果仍然失败，SIM 卡将永远无法使用。</item>
+    </plurals>
+</resources>

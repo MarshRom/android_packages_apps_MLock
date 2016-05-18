@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.cyngn.keyguard.KeyguardWidgetCarousel xmlns:android="http://schemas.android.com/apk/res/android" android:paddingLeft="25dp" android:paddingTop="25dp" android:paddingRight="25dp" android:paddingBottom="25dp" android:clipToPadding="false" android:pageSpacing="10dp" />

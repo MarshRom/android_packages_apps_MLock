@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="missed_calls">
+        <item quantity="other">%d مكالمات لم يرد عليها</item>
+        <item quantity="zero">%d مكالمات لم يرد عليها</item>
+        <item quantity="one">%d مكالمات لم يرد عليها</item>
+        <item quantity="two">%d مكالمات لم يرد عليها</item>
+        <item quantity="few">%d مكالمات لم يرد عليها</item>
+        <item quantity="many">%d مكالمات لم يرد عليها</item>
+    </plurals>
+    <plurals name="unread_messages">
+        <item quantity="other">%d رسائل غير مقروءة</item>
+        <item quantity="zero">%d رسائل غير مقروءة</item>
+        <item quantity="one">%d رسائل غير مقروءة</item>
+        <item quantity="two">%d رسائل غير مقروءة</item>
+        <item quantity="few">%d رسائل غير مقروءة</item>
+        <item quantity="many">%d رسائل غير مقروءة</item>
+    </plurals>
+    <plurals name="kg_password_wrong_pin_code">
+        <item quantity="other">‏رمز &quot;رقم التعريف الشخصي&quot; لبطاقة SIM غير صحيح، يتبقى لديك %d من المحاولات.</item>
+        <item quantity="one">‏رمز &quot;رقم التعريف الشخصي&quot; لبطاقة SIM غير صحيح، ويتبقى لديك محاولة واحدة (%d) يتعين عليك بعدها الاتصال بمشغّل شبكة الجوّال لإلغاء قفل الجهاز.</item>
+    </plurals>
+    <plurals name="kg_password_wrong_puk_code">
+        <item quantity="other">‏رمز PUK لبطاقة SIM غير صالح، ويتبقى لديك %d من المحاولات، تصبح بعدها بطاقة SIM غير صالحة للاستخدام بشكل دائم.</item>
+        <item quantity="one">‏رمز PUK لبطاقة SIM غير صالح، ويتبقى لديك محاولة واحدة (%d)، تصبح بعدها بطاقة SIM غير صالحة للاستخدام بشكل دائم.</item>
+    </plurals>
+</resources>

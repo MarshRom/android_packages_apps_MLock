@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">قوفڵی ڕوونمای CM</string>
+    <string name="keyguard_discharging">بارگاوی نه‌کردن, %d%%</string>
+    <string name="missed_call">په‌یوه‌ندی وه‌ڵام نه‌دراوه‌</string>
+    <string name="message_from">نامه‌یه‌ک له‌لایه‌ن</string>
+    <string name="message_from_person">نامه‌یه‌ک له‌لایه‌ن %1$s</string>
+</resources>

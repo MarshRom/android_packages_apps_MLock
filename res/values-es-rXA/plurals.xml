@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="missed_calls">
+        <item quantity="other">%d llamaes perdíes</item>
+        <item quantity="one">%d llamada perdida</item>
+    </plurals>
+    <plurals name="unread_messages">
+        <item quantity="other">%d mensaxes ensin lleer</item>
+        <item quantity="one">%d mensaxe ensin lleer</item>
+    </plurals>
+    <plurals name="kg_password_wrong_pin_code">
+        <item quantity="other">Códigu PIN de la tarxeta SIM incorreutu. Queden %d intentos.</item>
+        <item quantity="one">Códigu PIN de la tarxeta SIM incorreutu. Queda %d intentu pa tener que ponete en contautu col to operador pa desbloquiar el preséu.</item>
+    </plurals>
+    <plurals name="kg_password_wrong_puk_code">
+        <item quantity="other">Códigu PUK de la tarxeta SIM incorreutu. Quédente %d intentos pa que la tarxeta SIM nun pueda usase de mou permanente.</item>
+        <item quantity="one">Códigu PUK de la tarxeta SIM incorreutu. Quédate %d intentu pa que la tarxeta SIM nun pueda usase de mou permanente.</item>
+    </plurals>
+</resources>

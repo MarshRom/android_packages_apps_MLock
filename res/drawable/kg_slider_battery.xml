@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<level-list xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:drawable="@drawable/kg_slider_bat_low" android:maxLevel="24" />
+    <item android:drawable="@drawable/kg_slider_bat_25" android:maxLevel="49" />
+    <item android:drawable="@drawable/kg_slider_bat_50" android:maxLevel="74" />
+    <item android:drawable="@drawable/kg_slider_bat_75" android:maxLevel="89" />
+    <item android:drawable="@drawable/kg_slider_bat_full" android:maxLevel="100" />
+</level-list>

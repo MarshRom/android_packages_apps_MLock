@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="missed_calls">
+        <item quantity="other">%d entgangene Anrufe</item>
+        <item quantity="one">%d entgangener Anruf</item>
+    </plurals>
+    <plurals name="unread_messages">
+        <item quantity="other">%d ungelesene Nachrichten</item>
+        <item quantity="one">%d ungelesene Nachricht</item>
+    </plurals>
+    <plurals name="kg_password_wrong_pin_code">
+        <item quantity="other">Falscher PIN-Code der SIM-Karte. Sie haben noch %d Versuche.</item>
+        <item quantity="one">Falscher PIN-Code der SIM-Karte. Sie haben noch %d Versuch, bevor Sie das Gerät von Ihrem Mobilfunkanbieter entsperren lassen müssen.</item>
+    </plurals>
+    <plurals name="kg_password_wrong_puk_code">
+        <item quantity="other">Falscher PUK-Code der SIM-Karte. Sie haben noch %d Versuche, bevor Ihre SIM-Karte endgültig gesperrt wird.</item>
+        <item quantity="one">Falscher PUK-Code der SIM-Karte. Sie haben noch %d Versuch, bevor Ihre SIM-Karte endgültig gesperrt wird.</item>
+    </plurals>
+</resources>

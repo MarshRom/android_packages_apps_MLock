@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="missed_calls">
+        <item quantity="other">%d chamadas perdidas</item>
+        <item quantity="one">%d chamada perdida</item>
+    </plurals>
+    <plurals name="unread_messages">
+        <item quantity="other">%d mensagens não lidas</item>
+        <item quantity="one">%d mensagem não lida</item>
+    </plurals>
+</resources>

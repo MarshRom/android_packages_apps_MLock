@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.cyngn.keyguard.KeyguardWidgetFrame xmlns:android="http://schemas.android.com/apk/res/android" android:id="@+id/keyguard_add_widget" android:layout_width="match_parent" android:layout_height="match_parent">
+    <FrameLayout android:layout_width="match_parent" android:layout_height="match_parent" android:contentDescription="@string/keyguard_accessibility_widget_empty_slot">
+        <ImageView android:layout_gravity="top|bottom|left|right|center_vertical|fill_vertical|center_horizontal|fill_horizontal|center|fill|start|end" android:id="@+id/keyguard_add_widget_view" android:padding="24dp" android:clickable="true" android:layout_width="wrap_content" android:layout_height="wrap_content" android:src="@drawable/keyguard_add_widget_button" android:contentDescription="@string/keyguard_accessibility_add_widget" />
+    </FrameLayout>
+</com.cyngn.keyguard.KeyguardWidgetFrame>

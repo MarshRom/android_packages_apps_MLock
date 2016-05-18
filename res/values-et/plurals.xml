@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="missed_calls">
+        <item quantity="other">%d vastamata kõnet</item>
+        <item quantity="one">%d vastamata kõne</item>
+    </plurals>
+    <plurals name="unread_messages">
+        <item quantity="other">%d lugemata sõnumit</item>
+        <item quantity="one">%d lugemata sõnum</item>
+    </plurals>
+</resources>

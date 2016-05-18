@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <integer name="config_activityDefaultDur">?unknown_ref: 10e0007</integer>
+    <integer name="equalizer_divisions">16</integer>
+    <integer name="equalizer_divisions">12</integer>
+    <integer name="equalizer_divisions">16</integer>
+    <integer name="equalizer_db_fuzz_factor">0</integer>
+    <integer name="equalizer_db_fuzz_factor">15</integer>
+    <integer name="equalizer_db_fuzz_factor">35</integer>
+    <integer name="equalizer_db_fuzz">0</integer>
+    <integer name="equalizer_db_fuzz">0</integer>
+    <integer name="equalizer_db_fuzz">1</integer>
+    <integer name="kg_carousel_angle">75</integer>
+    <integer name="kg_carousel_angle">60</integer>
+    <integer name="kg_glowpad_rotation_offset">0</integer>
+    <integer name="kg_glowpad_rotation_offset">0</integer>
+    <integer name="kg_glowpad_rotation_offset">0</integer>
+    <integer name="kg_selector_gravity">31</integer>
+    <integer name="kg_selector_gravity">13</integer>
+    <integer name="kg_widget_region_weight">46</integer>
+    <integer name="kg_widget_region_weight">48</integer>
+    <integer name="kg_widget_region_weight">45</integer>
+    <integer name="kg_widget_region_weight">50</integer>
+    <integer name="kg_security_flipper_weight">54</integer>
+    <integer name="kg_security_flipper_weight">52</integer>
+    <integer name="kg_security_flipper_weight">55</integer>
+    <integer name="kg_security_flipper_weight">50</integer>
+</resources>

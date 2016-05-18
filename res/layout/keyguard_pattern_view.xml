@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.cyngn.keyguard.KeyguardPatternView xmlns:android="http://schemas.android.com/apk/res/com.cyngn.keyguard" androidprv:gravity="left|right|center_horizontal|fill_horizontal|center|fill|start|end" androidprv:orientation="vertical" androidprv:id="@+id/keyguard_pattern_view" androidprv:layout_width="match_parent" androidprv:layout_height="match_parent" androidprv:contentDescription="@string/keyguard_accessibility_pattern_unlock" androidprv:layout_maxHeight="UNKNOWN_DATA_0x7f0c0023" androidprv:layout_maxWidth="@dimen/keyguard_security_width">
+    <FrameLayout androidprv:layout_width="match_parent" androidprv:layout_height="match_parent">
+        <LinearLayout androidprv:layout_gravity="top|bottom|left|right|center_vertical|fill_vertical|center_horizontal|fill_horizontal|center|fill|start|end" androidprv:orientation="vertical" androidprv:layout_width="wrap_content" androidprv:layout_height="wrap_content">
+            <include androidprv:layout_width="match_parent" androidprv:layout_height="wrap_content" layout="@layout/keyguard_message_area" />
+            <FrameLayout androidprv:id="@+id/keyguard_bouncer_frame" androidprv:background="@drawable/kg_bouncer_bg_white" androidprv:layout_width="match_parent" androidprv:layout_height="UNKNOWN_DATA_0x1" androidprv:layout_weight="1.0">
+                <com.android.internal.widget.LockPatternView androidprv:gravity="top|bottom|left|right|center_vertical|fill_vertical|center_horizontal|fill_horizontal|center|fill|start|end" androidprv:layout_gravity="left|right|center_horizontal|fill_horizontal|center|fill|start|end" androidprv:id="@+id/lockPatternView" androidprv:layout_width="match_parent" androidprv:layout_height="match_parent" androidprv:layout_marginBottom="4dp" androidprv:layout_weight="1.0" androidprv:contentDescription="@string/keyguard_accessibility_pattern_area" androidprv:layout_marginStart="8dp" androidprv:layout_marginEnd="8dp" />
+            </FrameLayout>
+            <include androidprv:gravity="left|right|center_horizontal|fill_horizontal|center|fill|start|end" androidprv:layout_gravity="top|bottom|left|right|center_vertical|fill_vertical|center_horizontal|fill_horizontal|center|fill|start|end" androidprv:orientation="vertical" androidprv:id="@+id/keyguard_selector_fade_container" androidprv:layout_width="match_parent" androidprv:layout_height="wrap_content" layout="@layout/keyguard_eca" />
+        </LinearLayout>
+    </FrameLayout>
+</com.cyngn.keyguard.KeyguardPatternView>
